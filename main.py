@@ -2,11 +2,9 @@ import mediapipe as mp
 import cv2
 import time
 
-from mediapipe.tasks import python
-from mediapipe.tasks.python import vision
-
-
-from mediapipe.framework.formats import landmark_pb2
+# from mediapipe.tasks import python
+# from mediapipe.tasks.python import vision
+# from mediapipe.framework.formats import landmark_pb2
 import numpy as np
 
 # Initialize the video capture object
